@@ -1,0 +1,13 @@
+/*Swiper Bullets*/
+.swiper-pagination-bullet {
+  background: grey;
+}
+.swiper-pagination-bullet-active {
+  background:#049C9D ;
+}
+/* .swiper-button-next {
+  color: #049C9D !important;
+}
+.swiper-button-prev {
+  color: #049C9D !important;
+} */

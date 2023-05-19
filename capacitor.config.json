@@ -1,0 +1,6 @@
+{
+	"appId": "com.slinqer.slinqer",
+	"appName": "slinqer",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,6 @@
+input[type="radio"]:checked{
+  border: 3px solid #478bfb;
+}
+input[type="radio"]:checked:after{
+  background-color: #478bfb;
+}

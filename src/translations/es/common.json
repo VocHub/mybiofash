@@ -1,0 +1,48 @@
+{
+  "navbar": {
+    "spanish": "Español",
+    "english": "Ingles",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Vive más, usa ",
+    "titleColored": "menos",
+    "text": "Slinqer conecta marcas ecológicas con una comunidad sostenible. #ViveMásUsaMenos",
+    "buttons": {
+      "join": "¡Ingresa aquí!"
+    }
+  },
+  "aboutUs": {
+    "title": "Una tienda pensada en el Planeta",
+    "text": "Tienda ecológica con los mejores productos y servicios de nuestras eco-marcas aliadas."
+  },
+  "servicesCards": {
+    "title": "Cuidar del planeta es cuidar de tí",
+    "text": "Creemos que ser ecológica más que una opción, es una responsabilidad. Es por eso que en Slinqer te ayudamos a cumplirla.",
+    "firstCard": {
+      "label": "Consumo responsable",
+      "title": "Ecológico no significa una sola opción",
+      "text": "Puedes encontrar varias opciones para un mismo producto o servicio. Así nos ajustamos a tus gustos."
+    },
+    "secondCard": {
+      "label": "Educación - Zero Waste",
+      "title": "Te enseñamos a ser Ecológica",
+      "text": " ¿Quieres empezar a ser ecológica pero no sabes como?, Tranqui! Aquí encontraras guías básicas, consejos y tips para disminuir tu huella de carbono sin sacrificar lo que te gusta. Cada pequeño cambio cuenta."
+    },
+    "thirdCard": {
+      "label": "Cultura ECO",
+      "title": "Comunidad ecológica Slinqer",
+      "text": "Podrás intercambiar tu conocimiento mediante preguntas y respuestas con nuestra comunidad. Apuntate a nuestros eco-retos, participa en eventos, gana puntos, premios y más."
+    }
+  },
+  "contact": {
+    "title": "Se parte de la revolución Ecológica",
+    "text": "Solo hay un requisito: Querer ser parte del cambio",
+    "form": {
+      "phone_email": "Tu mejor email",
+      "button": "Unirme",
+      "confirmation": "Te contactaremos para que puedas probar la plataforma, síguenos en nuestras redes para saber más.",
+      "missing_input": "Upss.. No podremos avisarte"
+    }
+  }
+}

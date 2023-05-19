@@ -1,0 +1,57 @@
+{
+  "navbar": {
+    "spanish": "Spanish",
+    "english": "English",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Offset your carbon footprint",
+    "titleColored": "It has never been easier.",
+    "text": "We are the first platform that connects sustainable brands with people who want to offset their carbon footprint.",
+    "support": "Backed by",
+    "buttons": {
+      "contact": "Contact",
+      "aboutUs": "About Us"
+    }
+  },
+  "partners": {
+    "title": "Our developers and consultants are making software for",
+    "subTitle": "TOP companies in USA and Latam"
+  },
+  "aboutUs": {
+    "title": "About",
+    "text": "We are the global software development consultant who develops and deploy most complex and high-profile projects"
+  },
+  "servicesCards": {
+    "title": "Services",
+    "firstCard": {
+      "title": "Staff Augmentation",
+      "text": "Expert software engineers work together with your internal team on your projects. These engineers join your existing staff, often working remote until project completion."
+    },
+    "secondCard": {
+      "title": "Dedicated Teams",
+      "text": "Presents talent which directly oversees the whole development project. This option provides a management structure with hands-on supervision of the workflow and tasks."
+    },
+    "thirthCard": {
+      "title": "Project-Based Model",
+      "text": "Your partner company oversees the entire development process: from establishing the specs, to allocating workflow, setting timescales and quality testing."
+    }
+  },
+  "contact": {
+    "title": "Let's talk!",
+    "text": "Jump-start your business with expert software engineering teams.",
+    "form": {
+      "phone_email": "Phone or email",
+      "name": "Your name",
+      "email": "Your email",
+      "company": "Your Company",
+      "message": "Your message",
+      "button": "I want to join the sustainable revolution!",
+      "confirmation": "We will contact you so you can test the platform, follow us on our networks to learn more.",
+      "missing_input": "Upss.. We will not be able to contact you"
+    }
+  },
+  "footer": {
+
+  }
+}

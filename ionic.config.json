@@ -1,0 +1,7 @@
+{
+  "name": "slinqer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
